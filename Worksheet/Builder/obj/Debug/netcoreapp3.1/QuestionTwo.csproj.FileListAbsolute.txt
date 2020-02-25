@@ -1,0 +1,11 @@
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/bin/Debug/netcoreapp3.1/QuestionTwo
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/bin/Debug/netcoreapp3.1/QuestionTwo.deps.json
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/bin/Debug/netcoreapp3.1/QuestionTwo.runtimeconfig.json
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/bin/Debug/netcoreapp3.1/QuestionTwo.runtimeconfig.dev.json
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/bin/Debug/netcoreapp3.1/QuestionTwo.dll
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/bin/Debug/netcoreapp3.1/QuestionTwo.pdb
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/obj/Debug/netcoreapp3.1/QuestionTwo.csprojAssemblyReference.cache
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/obj/Debug/netcoreapp3.1/QuestionTwo.AssemblyInfoInputs.cache
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/obj/Debug/netcoreapp3.1/QuestionTwo.AssemblyInfo.cs
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/obj/Debug/netcoreapp3.1/QuestionTwo.dll
+/Users/keith/Documents/Courses/sdp-sp3/2020/worksheet-six-creational-design-patterns/Worksheet/QuestionTwo/obj/Debug/netcoreapp3.1/QuestionTwo.pdb
