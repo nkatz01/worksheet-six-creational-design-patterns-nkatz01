@@ -6,20 +6,17 @@ namespace QuestionOne
     public static class ParserFactoryProducer
     {
 
-        internal static IAbstractParserFactory specificCompanyFactory { get; }
+        internal static IAbstractParserFactory specificCompanyFactory { get; set; }
 
-       static ParserFactoryProducer(){
+     
         
-         var appSettings = ConfigurationManager.AppSettings;
+        
+        public static IAbstractParserFactory GetFactory(string nyFactory)
+        {    var appSettings = ConfigurationManager.AppSettings;
             var companyFactory = appSettings[nyFactory];
             var t = Type.GetType(companyFactory);
              specificCompanyFactory = Activator.CreateInstance(t) as IAbstractParserFactory;
             return specificCompanyFactory;
-        }
-        
-        
-        public static IAbstractParserFactory GetFactory(string nyFactory)
-        {
            
         }
     }

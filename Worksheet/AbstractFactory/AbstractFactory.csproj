@@ -6,4 +6,9 @@
         <RootNamespace>QuestionOne</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="5.1.2" />
+      <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+    </ItemGroup>
+
 </Project>

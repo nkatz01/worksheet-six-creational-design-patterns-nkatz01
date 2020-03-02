@@ -4,7 +4,7 @@ namespace QuestionOne
     {
         public string Parse()
         {
-            throw new System.NotImplementedException();
+           return "I'm a NYCcompany parser";
         }
     }
 }

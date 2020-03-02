@@ -9,3 +9,16 @@ C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Works
 C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
 C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
 C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CopyComplete
+C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\Autofac.dll
