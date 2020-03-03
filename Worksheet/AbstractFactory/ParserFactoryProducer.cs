@@ -11,9 +11,9 @@ namespace QuestionOne
      
         
         
-        public static IAbstractParserFactory GetFactory(string nyFactory)
+        public static IAbstractParserFactory GetFactory(string  Factory)
         {    var appSettings = ConfigurationManager.AppSettings;
-            var companyFactory = appSettings[nyFactory];
+            var companyFactory = appSettings[Factory];
             var t = Type.GetType(companyFactory);
              specificCompanyFactory = Activator.CreateInstance(t) as IAbstractParserFactory;
             return specificCompanyFactory;
