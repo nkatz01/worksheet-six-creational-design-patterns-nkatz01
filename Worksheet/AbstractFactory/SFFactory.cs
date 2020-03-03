@@ -7,20 +7,15 @@ using Autofac;
 
 namespace QuestionOne
 {
-    class NYCFactory :  AbstractParserFactory
+    class SFFactory : AbstractParserFactory
     {
-       
+         
 
-    
-               public override IXMLParser GetParserInstance(string parserType)
+        public override IXMLParser GetParserInstance(string parserType)
         {
 
             return base.GetParserInstance(parserType);
-
+          
         }
-
-
-
-    
     }
 }

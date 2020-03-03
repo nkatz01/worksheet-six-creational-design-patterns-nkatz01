@@ -1,15 +1,14 @@
 namespace QuestionOne
 {
-    public class NYCOrderXMLParser : IXMLParser
+    public class SFFeedbackXMLParser : IXMLParser
     {
         public string Parse()
         {
-           return "NY Order XML Message";
+            return "SF Feedback XML Message";
         }
         public override string ToString()
         {
-            return "NY Parsing order XML...\n" ;
+            return "Parsing feedback XML...\n";
         }
-     
     }
 }
