@@ -4,12 +4,9 @@ namespace QuestionOne
     {
         public string Parse()
         {
-           return "NY Order XML Message";
+           return "NY Parsing order XML...\nNY Order XML Message";
         }
-        public override string ToString()
-        {
-            return "NY Parsing order XML...\n" ; //put it in parser
-        }
+        
      
     }
 }

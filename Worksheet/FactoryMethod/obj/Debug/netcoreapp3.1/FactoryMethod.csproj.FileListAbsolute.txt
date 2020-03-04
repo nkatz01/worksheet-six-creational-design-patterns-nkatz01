@@ -1,0 +1,12 @@
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll.config
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

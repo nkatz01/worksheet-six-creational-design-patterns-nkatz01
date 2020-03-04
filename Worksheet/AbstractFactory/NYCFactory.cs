@@ -12,10 +12,14 @@ namespace QuestionOne
        
 
     
-               public override IXMLParser GetParserInstance(string parserType)//chcek that it belongs to NYC
+               public override IXMLParser GetParserInstance(string parserType)
         {
-
-            return base.GetParserInstance(parserType);
+            if (parserType.StartsWith("nyc",StringComparison.InvariantCultureIgnoreCase))
+            return base.GetParserInstance(parserType);//could chip off first 3 chars, turn them to CAPS, turn rest to lower, so to allow this method also to be called with a not exact name of parser instance, as in teacher's demo...
+            else
+            {
+                throw new ArgumentException("Not a parser that this client recognizes");
+            }
 
         }
 

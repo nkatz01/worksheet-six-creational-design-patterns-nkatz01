@@ -1,0 +1,11 @@
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

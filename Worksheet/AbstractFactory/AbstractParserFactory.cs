@@ -27,7 +27,7 @@ namespace QuestionOne
             {
                 var specificTypeParser = scope.Resolve<IXMLParser>();
 
-                Console.WriteLine(specificTypeParser.ToString());
+               
                 return specificTypeParser;
             }
          }

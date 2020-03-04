@@ -42,7 +42,6 @@ C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Work
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CopyComplete
