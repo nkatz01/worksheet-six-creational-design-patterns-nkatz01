@@ -14,8 +14,23 @@ namespace QuestionOne
         public override IXMLParser GetParserInstance(string parserType)
         {
             if (parserType.StartsWith("sf", StringComparison.InvariantCultureIgnoreCase))
-                return base.GetParserInstance(parserType);
-            else
+
+                
+
+                    if (parserType.Contains("Order", StringComparison.OrdinalIgnoreCase))
+                    {
+
+                        return base.GetParserInstance("SFOrder");
+                    }
+                    else if (parserType.Contains("Feedback", StringComparison.OrdinalIgnoreCase))
+                        return base.GetParserInstance("SFFeedback");
+                    else if (parserType.Contains("Response", StringComparison.OrdinalIgnoreCase))
+                        return base.GetParserInstance("SFResponse");
+                    else
+                        return base.GetParserInstance("SFCError");
+                
+
+             else
             {
                 throw new ArgumentException("Not a parser that this client recognizes");
             }

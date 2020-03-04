@@ -1,21 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
- using System.Diagnostics;
+using System.Diagnostics;
 using System.Reflection;
 using Autofac;
 
 namespace QuestionOne
 {
-    class NYCFactory :  AbstractParserFactory
+    class NYCFactory : AbstractParserFactory
     {
-       
 
-    
-               public override IXMLParser GetParserInstance(string parserType)
+
+
+        public override IXMLParser GetParserInstance(string parserType)
         {
-            if (parserType.StartsWith("nyc",StringComparison.InvariantCultureIgnoreCase))
-            return base.GetParserInstance(parserType);//could chip off first 3 chars, turn them to CAPS, turn rest to lower, so to allow this method also to be called with a not exact name of parser instance, as in teacher's demo...
+            if (parserType.StartsWith("nyc", StringComparison.InvariantCultureIgnoreCase))
+            {
+
+                if (parserType.Contains("Order", StringComparison.OrdinalIgnoreCase))
+                {
+
+                    return base.GetParserInstance("NYCOrder");
+                }
+                else if (parserType.Contains("Feedback", StringComparison.OrdinalIgnoreCase))
+                    return base.GetParserInstance("NYCFeedback");
+                else if (parserType.Contains("Response", StringComparison.OrdinalIgnoreCase))
+                    return base.GetParserInstance("NYCResponse");
+                else
+                    return base.GetParserInstance("NYCError");
+            }
             else
             {
                 throw new ArgumentException("Not a parser that this client recognizes");
@@ -25,6 +38,6 @@ namespace QuestionOne
 
 
 
-    
+
     }
 }
