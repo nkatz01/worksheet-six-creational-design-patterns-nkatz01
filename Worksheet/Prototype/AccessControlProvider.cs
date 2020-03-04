@@ -7,13 +7,48 @@ namespace QuestionFour
 {
     public static class AccessControlProvider
     {
-        private static IEnumerable<KeyValuePair<string, AccessControl>> _AccessCtrlPerUserLevelMap;
+        private static  IDictionary<string, AccessControl> _AccessCtrlPerUserLevelMap;
+
+
+
+
+      private static IDictionary<string, AccessControl> CreateACObjects() {
+
+            if (_AccessCtrlPerUserLevelMap == null)
+            {
+                Console.WriteLine("Fetching data from external resources and creating access control objects...");
+
+                _AccessCtrlPerUserLevelMap = new ConcurrentDictionary<string, AccessControl>(
+                    new Dictionary<string, AccessControl>()
+               {
+            {"USER", new AccessControl(Access.DoWork, "USER") },
+              {"MANAGER",  new AccessControl(Access.Generate, "MANAGER") }
+                  });
+
+
+            }
+             
+                return _AccessCtrlPerUserLevelMap;
+              
+}
+
+    
+
+     
+
+
         public static AccessControl GetAccessControlObject(string controlLevel) {
-          
-            var AC = (AccessControl)_AccessCtrlPerUserLevelMap.Where(i => i.Key == controlLevel).Select(i => i.Value);
-              return AC.Clone();
-           
+
+
+
+
+
+            CreateACObjects().TryGetValue(controlLevel, out AccessControl AC);
+
             
-        }
+
+            return  AC.Clone();
+
+         }
     }
 }

@@ -2,11 +2,10 @@ namespace QuestionFour
 {
     public enum Access
     {
+       DoWork,
        ReadReports,
-       ModifyReports,
-       WriteReports,
-       DeleteReports,
-       AddOrRemoveUser
+       Generate,
+        
 
     }
 }
