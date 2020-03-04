@@ -2,11 +2,14 @@ namespace QuestionThree
 {
     public class ConcreteCreator : ICreator
     {
-        public IProduct FactoryMethod()
+       
+        public   IProduct FactoryMethod() 
         {
-            return new ConcreteProduct();
+           
+            return new ConcreteProduct();//always returns ConcreteProduct
+
         }
-        
-        // any additional code that is required
+
+    
     }
 }

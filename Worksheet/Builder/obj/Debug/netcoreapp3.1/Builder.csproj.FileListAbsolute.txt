@@ -9,3 +9,14 @@ C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Works
 C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
 C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 C:\Users\Nuchem\Documents\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.pdb

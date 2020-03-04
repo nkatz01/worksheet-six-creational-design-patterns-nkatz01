@@ -4,14 +4,18 @@ namespace QuestionThree
 {
     public class Creator : ICreator
     {
-        public IProduct FactoryMethod(string s) // some type of argument - you might change this
+
+     
+       
+
+        public   IProduct FactoryMethod()
         {
-            throw new NotImplementedException();
+            return new ConcreteProduct();
         }
 
-        public IProduct FactoryMethod()
+        public IProduct FactoryMethod(string s)  
         {
-            throw new NotImplementedException();
+            return new ConcreteProduct();//may create someProduct that also implements Iproduct
         }
     }
 }
