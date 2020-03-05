@@ -3,9 +3,11 @@ using System.Runtime.Serialization;
 
 namespace QuestionFive
 
+    
 {
+    
     [Serializable]
-    public class LazySingletonProt : ISerializable
+    public class LazySingletonProt : ISerializable  
     {
         
         private static LazySingletonProt _LSInstance { get; set; } 

@@ -2,10 +2,9 @@ using System;
 
 namespace QuestionFive
 {
-    public class StaticSingleton// : ICloneable
+    public class StaticSingleton
     {
-        //With this solution, everytime 
-
+ 
         private StaticSingleton()
         {
 
@@ -36,12 +35,6 @@ namespace QuestionFive
 
       
 
-
-        //public   Object Clone()
-        //{
-
-        //    return base.MemberwiseClone();
-        //}
 
         
     }

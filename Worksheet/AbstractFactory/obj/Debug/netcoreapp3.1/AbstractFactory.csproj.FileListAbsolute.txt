@@ -47,3 +47,4 @@ C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Work
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CopyComplete
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
