@@ -1,5 +1,8 @@
+using System;
+
 namespace QuestionFive
 {
+    [Serializable]
     public class LazySingleton
     {
 
@@ -29,6 +32,11 @@ namespace QuestionFive
 
             return _LSInstance;
              
+        }
+
+        public LazySingleton ShallowCopy()
+        {
+            return (LazySingleton)this.MemberwiseClone();
         }
     }
 
