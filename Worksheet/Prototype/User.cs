@@ -7,19 +7,19 @@ namespace QuestionFour
     {
         public string UserName { get; set; }
         public string Level { get; set; }
-        public Access AccessControl { get; set; }
-
+        public AccessControl AccessControl { get; set; }
+        AccessControl UserAccessControl { get; set; }
         public User(string name, string level, AccessControl userAccessControl)
         {
             UserName = name;
             Level = level;
-            AccessControl = userAccessControl.Access;
+            AccessControl = userAccessControl;
         }
         public override string ToString() => new StringBuilder()
-            //.Append($"-------------- {CarType} --------------------- \n")
-            .Append($" Name: {UserName}, ")
-            .Append($" Level: {Level}, ")
-            .Append($" Access Control Level: {AccessControl.GetUIFriendlyString()}\n")
+            
+            .Append($"Name: {UserName}, ")
+            .Append($"Level: {Level}, ")
+            .Append($"Access Control Level: {AccessControl.Access.GetUIFriendlyString()}\n")
             .ToString();
     }
 

@@ -15,7 +15,7 @@ namespace QuestionFour
             userAccessControl = AccessControlProvider.GetAccessControlObject("USER");
             user = new User("User B", "USER Level", userAccessControl);
             Console.WriteLine($"Changing access control of: {user.UserName}");
-            user.AccessControl = Access.ReadReports;
+            user.AccessControl.Access = Access.ReadReports;
             Console.WriteLine(user);
 
             //Console.WriteLine("************************************");

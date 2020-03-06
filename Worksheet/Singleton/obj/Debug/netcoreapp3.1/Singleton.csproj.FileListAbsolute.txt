@@ -32,4 +32,3 @@ C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Work
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\user\visualStudio\worksheet-six-creational-design-patterns-nkatz01\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll.config
